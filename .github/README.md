@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ DR VICTOR MUSIC BOT ❤️</b></h1>
 
-<h4 align="center">DR VICTOR Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
+<h4 align="center">DR VICTOR Music Is A Part Of  🅐Ⓓ🅐Ⓡ🅢Ⓗ✨🅣Ⓘ🅦Ⓐ🅡Ⓘ Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
 
 <p align="center"><a href="https://t.me/Hitler_fed_owner"><img src="https://telegra.ph/file/169a05691d278557e26ba.png" width="400"></a></p>
 
