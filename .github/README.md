@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ AASTHA MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>XdMusicDanish</b></h1>
 
-<h4 align="center">Aastha Music Is A Part Of Alexa Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
+<h4 align="center">Danish Music Is A Part Of Danish Bot Which Is A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ...All Credit Goes To Team Yukki...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/d8db78924684b505c3048.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/DaNiSh_kHaN21"><img src="https://te.legra.ph/file/c8c500be0b518d88f3b03.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/AasthaMusicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -13,17 +13,17 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Alexa Server, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using danish Server, That is the greatest pleasure we have !
 
-### Asad– History This Bot Is Clone On [Team Yukki](https://github.com/TeamYukki)
+### danish– History This Bot Is Clone On [xd Danish](https://github.com/Xd-danish)
 
 <a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 ## Features ❤️”®
 
-- Gban Added By [Me](https://t.me/Alexa_Help)
-- Automatically Thambnail Generator By [Team Yukki](https://github.com/TeamYukki)
-- Customize Button Added [Me](https://t.me/Alexa_Help)
+- Gban Added By [Me](https://t.me/ReAl_DaRaMa_cLub21)
+- Automatically Thambnail Generator By [Xd danish](https://github.com/Xd-danish)
+- Customize Button Added [Me](https://t.me/ReAl_DaRaMa_cLub21)
 - Channel Stream Added 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -79,10 +79,10 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
+- [XD danish](https://t.me/DaNiSh_kHaN21)
+- [XD rohit](https://t.me/Rohit_x_Op)
+- [XD yogesh](https://t.me/DS_YOGESH)
+- [xd](https://github.com/Xd-danish)
 
 </details>
 
@@ -90,8 +90,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [XD](https://t.me/Rohit_x_Op)
+- [XD](https://t.me/XDMISHRA)
 
 </details>
 
@@ -100,10 +100,10 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Haso_our_hasao00"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ReAl_DaRaMa_cLub21"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Haso_our_hasao00"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ReAl_DaRaMa_cLub21"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
